@@ -1,0 +1,11 @@
+Package: Geocode
+Title: Geocode using Amap API
+Version: 0.0.0.9000
+Authors@R: 
+    person("Zhihu", "Xu", , "zhihu_xu@outlook.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-4634-4709"))
+Description: Use the AMap API to obtain geographical coordinates and convert them to WGS84 coordinates
+License: not available
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
